@@ -1,0 +1,13 @@
+Hey There Wanna Learn this Shit 
+Git and Github are Connected with an Invisible Bullshit which is Untraced .
+
+
+Git Commands :
+Git --Version : List the Version
+Git clone : Clone a repo into your Local Machine
+Git status : Show the Repo Status
+Git add : Add the untracked files to "Staged"
+Git commit -m "Message is Here": Commit the Added Files 
+Git commit Filename -m "Message"
+Git rm Filename : Remove the File
+Git Push Origin Main : Push the Commited files into the Main Branch 
